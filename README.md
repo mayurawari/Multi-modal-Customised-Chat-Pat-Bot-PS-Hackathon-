@@ -20,9 +20,6 @@ A **next-generation multimodal chatbot** built with **Streamlit**, combining **t
 
 🔗 **App Deployment:** [Click here to try](https://multimodelchat-pat-bot.streamlit.app/)  
 📹 **Explanatory Video:** [Watch Demo](https://drive.google.com/file/d/1p14eHT047kCprXtX24xGdC0PmRH7bg9k/view?usp=sharing)  
-🖼️ **Screenshots:**  
-![Chat Screenshot]([#](https://drive.google.com/file/d/1s-kZkFq_YGAikFSWUHRfwoYASbXQLX6b/view?usp=sharing))  
-![Text-to-Image Studio]([#](https://drive.google.com/file/d/1s-kZkFq_YGAikFSWUHRfwoYASbXQLX6b/view?usp=sharing))
 
 ---
 
@@ -166,4 +163,5 @@ If you find this project helpful:
 
 🐞 Open issues for bugs / suggestions
 ```
+
 
